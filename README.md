@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/github/followers/CodeWithRushil?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-
+---
 ## 🎯 **About Me**
 🏆 **Full Stack Developer** | 💻 **Coding Enthusiast** | 💡 **Tech Explorer** | 🚀 **Problem Solver**  
 
