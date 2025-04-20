@@ -107,6 +107,40 @@
 - **Certificate of Achievement - OOPs** - Coding Ninjas 
 ---
 
+## 💼 **My GeeksForGeeks Profile**
+Check out my GfG profile [here](https://www.geeksforgeeks.com/rushil_sharma).
+
+---
+
+
+## 📊 **My GitHub Contributions**
+![Shantanu's GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=CodeWithRushil&bg_color=fff&color=36BCF7&line=36BCF7&point=ff69b4&area=true&hide_border=true)
+
+---
+
+## 📈 **My GitHub Stats**
+![Rushil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithRushil&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical&include_all_commits=true&line_height=24&hide_border=true)
+
+---
+
+## 📌 **Top Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithRushil&layout=compact&theme=vision-friendly-dark)
+
+---
+
+## 🎭 **Fun Fact**
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes">
+</p>
+
+---
+
+## 🔥 **Quote of the Day**
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
