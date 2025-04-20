@@ -1,6 +1,6 @@
 ###
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CodeWithRushil/CodeWithRushil/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com//output/snake.svg" alt="Snake animation" />
 </p>
 
 ###
@@ -106,11 +106,15 @@
 - **Problem Solving**
 
 
-## GitHub Trophies: 
+## <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" height="30"/> &nbsp;GitHub Trophies:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="100"/>
+</p> 
+
 <img src="https://github-profile-trophy.vercel.app?username=CodeWithRushil&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
 ---
-## 💼 **My GeeksForGeeks Profile**
+## <img src="https://private-user-images.githubusercontent.com/74038190/240814242-2c79649a-b04c-4c78-998f-c126db48305c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUxNDcyMjgsIm5iZiI6MTc0NTE0NjkyOCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTQyNDItMmM3OTY0OWEtYjA0Yy00Yzc4LTk5OGYtYzEyNmRiNDgzMDVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIwVDExMDIwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQwMWQ0NTRlMzgxNjY5MWM3MjNhOTg3Yzk3MTE0Y2JlMDg3NDQxMTliYTNkYTZmNDE4OGM2NzM5ZjdmMjEzYWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7n2V1bhKN_YExtrlt3rmKe-yOZiN1cXUes0ZQtbdZrQ" height="30"/> &nbsp;**My GeeksForGeeks Profile**
 Check out my GfG profile [here](https://www.geeksforgeeks.org/user/rushil_sharma/).
 
 ---
@@ -118,12 +122,19 @@ Check out my GfG profile [here](https://www.geeksforgeeks.org/user/rushil_sharma
 
 ## 📈 **My GitHub Stats**
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="250"/>
+</p> 
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeWithRushil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </p>
 
 ---
 
 ## 📊 **My GitHub Contributions**
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUxNDYzMjIsIm5iZiI6MTc0NTE0NjAyMiwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIwVDEwNDcwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ0NmIyYTY4OTIwOTZhOGZmYTU2OGUzMTM4YzE2ZjQzY2RkNGM3NjU3MjJiYWE2MTA3MTg4YzM1YTkwOTU3NzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.q1IXswaDddQz_DcnNnGKvAEnixy9Q3DKHH43D2P-GqQ" height="100"/>
+</p> 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CodeWithRushil&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
