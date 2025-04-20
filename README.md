@@ -85,6 +85,28 @@
 
 ---
 
+## 🌟 **Skills & Certifications**
+### Top Skills:
+- **Data Structures and Algorithms**
+- **Full Stack Development (MERN Stack)**
+- **C++**
+- **C (Programming Language)**
+- **OOPs**
+- **Python (Programming Language)**
+- **Problem Solving**
+  
+  
+
+### Certifications: 
+
+- **Certificate of Excellence - DSA** - Coding Ninjas
+- **Certificate of Excellence - Java** - Coding Ninjas  
+- **Certificate of Completion - Java** - Coding Ninjas  
+- **Certificate of Achievement - Basic of JAVA** - Coding Ninjas  
+- **Certificate of Completion - DSA** - Coding Ninjas  
+- **Certificate of Achievement - OOPs** - Coding Ninjas 
+---
+
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
