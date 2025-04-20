@@ -1,4 +1,13 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<!-- 🎉 Title & Intro -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Hey there! I'm  
+  <span style="color: #36BCF7; font-weight: bold; font-size: 45px;">Rushil Sharma</span>
+</h1>
+
+<!-- 🎯 Typing Animation -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Tech+Enthusiast;💻+B.Tech+CSE+Student;⚡+Passionate+Coder;🎯+Problem+Solver+%26+Tech+Lover!" />
+</h3>
 
 ###
 
