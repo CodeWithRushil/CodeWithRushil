@@ -6,9 +6,27 @@
 
 <!-- 🎯 Typing Animation -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Tech+Enthusiast;💻+B.Tech+CSE+Student;⚡+Passionate+Coder;🎯+Problem+Solver+%26+Tech+Lover!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;🖥️+B.Tech+CSE+Student;🤖+Tech+Enthusiast;⚡+Passionate+Coder;🎯+Problem+Solver+%26+Tech+Lover!" />
 </h3>
 
+<!-- 🔥 Profile Stats -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodeWithRushil&label=Profile%20Views&color=ff69b4&style=plastic" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/CodeWithRushil?label=Followers&style=social" alt="GitHub Followers" />
+</p>
+
+## 🎯 **About Me**
+🏆 **Full Stack Developer** | 💡 **Tech Explorer** | 💻 **Code Enthusiast** | 🚀 **Problem Solver**  
+
+- 🌱 Currently diving deep into **C++, DSA, & Web Development**  
+- 🚀 Passionate about **Full Stack Development & Competitive Programming**  
+- 💡 Always exploring **new technologies & coding techniques**  
+- 🎯 **Goal:** Become a **Full-Stack Developer & Software Engineer**  
+- 🧠 Ask me about **C++, DSA, Web Development or GitHub Workflows!**  
+- 📧 **Reach me at:** `Workwithrushil@gmail.com`  
+- 🎮 **Fun Fact:** I debug better than I cook! 🍳
+
+  
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
