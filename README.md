@@ -39,15 +39,19 @@
   <a href="https://twitter.com/CodeWithRushil" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=X&color=1DA1F2&logoColor=white&labelColor=blue&style=plastic" height="30" alt="twitter logo"  />
   </a>
+  <img width="1" />
   <a href="https://instagram.com/rushil.in" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="30" alt="instagram logo"  />
   </a>
+  <img width="1" />
   <a href="https://discordapp.com/users/975018741316329472" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="30" alt="discord logo"  />
   </a>
+  <img width="1" />
   <a href="https://leetcode.com/CodeWithRushil" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=yellow&logoColor=white&labelColor=&style=plastic" height="30" alt="leetcode logo"  />
   </a>
+  <img width="1" />
   <a href="https://linkedin.com/in/CodeWithRushil" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=in&color=0077B5&logoColor=white&labelColor=blue&style=plastic" height="30" alt="linkedin logo"  />
   </a>  
