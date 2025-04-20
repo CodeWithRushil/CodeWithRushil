@@ -6,7 +6,7 @@
 
 <!-- 🎯 Typing Animation -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;🖥️+B.Tech+CSE+Student;🤖+Tech+Enthusiast;⚡+Passionate+Coder;🎯+Problem+Solver+%26+Tech+Lover!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;🖥️+B.Tech+CSE+Student;💡+Tech+Enthusiast;⚡+Passionate+Coder;🎯+Problem+Solver+%26+Tech+Lover!" />
 </h3>
 
 <!-- 🔥 Profile Stats -->
@@ -16,7 +16,7 @@
 </p>
 
 ## 🎯 **About Me**
-🏆 **Full Stack Developer** | 💡 **Tech Explorer** | 💻 **Code Enthusiast** | 🚀 **Problem Solver**  
+🏆 **Full Stack Developer** | 💻 **Code Enthusiast** | 💡 **Tech Explorer** | 🚀 **Problem Solver**  
 
 - 🌱 Currently diving deep into **C++, DSA, & Web Development**  
 - 🚀 Passionate about **Full Stack Development & Competitive Programming**  
