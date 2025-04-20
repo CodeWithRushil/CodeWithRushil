@@ -28,7 +28,7 @@
 
 ---
 ## 🌐 **Connect with Me**
-<div align="left">
+<div align="center">
   <a href="https://instagram.com/shantanuchy_" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="30" alt="instagram logo"  />
   </a>
@@ -52,7 +52,7 @@
 ---
 
 ## 🛠️ **Languages & Tools**
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
