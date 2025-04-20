@@ -35,22 +35,22 @@
 ---
 ## 🌐 **Connect with Me**
 <div align="center">
-  <a href="https://instagram.com/shantanuchy_" target="_blank" style="text-decoration: none;">
+  <a href="https://instagram.com/rushil.in" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="30" alt="instagram logo"  />
   </a>
-  <a href="https://twitter.com/shantanuchy_" target="_blank" style="text-decoration: none;">
+  <a href="https://twitter.com/CodeWithRushil" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=plastic" height="30" alt="twitter logo"  />
   </a>
-  <a href="https://twitter.com/shantanuchy_" target="_blank" style="text-decoration: none;">
+  <a href="mailto:workwithrushil@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="30" alt="gmail logo"  />
   </a>
-  <a href="https://twitter.com/shantanuchy_" target="_blank" style="text-decoration: none;">
+  <a href="https://discordapp.com/users/975018741316329472" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="30" alt="discord logo"  />
   </a>
-  <a href="https://twitter.com/shantanuchy_" target="_blank" style="text-decoration: none;">
+  <a href="https://leetcode.com/CodeWithRushil" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=yellow&logoColor=white&labelColor=&style=plastic" height="30" alt="leetcode logo"  />
   </a>
-  <a href="https://twitter.com/shantanuchy_" target="_blank" style="text-decoration: none;">
+  <a href="https://linkedin.com/CodeWithRushil" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="30" alt="linkedin logo"  />
   </a>  
 </div>
@@ -92,7 +92,7 @@
 ---
 
 ## 🌟 **Skills & GitHub Trophies**
-## Top Skills:
+### Top Skills:
 - **Data Structures and Algorithms**
 - **Full Stack Development (MERN Stack)**
 - **C++**
@@ -106,7 +106,7 @@
 ## GitHub Trophies: 
 <img src="https://github-profile-trophy.vercel.app?username=CodeWithRushil&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
-
+---
 ## 💼 **My GeeksForGeeks Profile**
 Check out my GfG profile [here](https://www.geeksforgeeks.com/rushil_sharma).
 
@@ -114,76 +114,30 @@ Check out my GfG profile [here](https://www.geeksforgeeks.com/rushil_sharma).
 
 
 ## 📈 **My GitHub Stats**
-<img src="https://github-readme-stats.vercel.app/api?username=CodeWithRushil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithRushil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</p>
 
 ---
 
 ## 📊 **My GitHub Contributions**
-<img src="https://streak-stats.demolab.com?user=CodeWithRushil&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CodeWithRushil&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithRushil&radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=false" height="300" alt="activity-graph graph"  />
+</p>
 
 ---
 
 ## 📌 **Top Languages**
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeWithRushil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-
----
-
-## 🎭 **Fun Fact**
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes">
-</p>
-
----
-
-## 🔥 **Quote of the Day**
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-
-###
-
-###
-
-<img src="https://raw.githubusercontent.com/CodeWithRushil/CodeWithRushil/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithRushil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeWithRushil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=CodeWithRushil&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=CodeWithRushil&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-
-
-
-//NEW
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithRushil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeWithRushil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=CodeWithRushil&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=CodeWithRushil&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithRushil&radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=false" height="300" alt="activity-graph graph"  />
-</div>
+</p>
 
-
-
-
-
-
-
+---
 
 
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
