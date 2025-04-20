@@ -50,7 +50,7 @@
   <a href="https://leetcode.com/CodeWithRushil" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=yellow&logoColor=white&labelColor=&style=plastic" height="30" alt="leetcode logo"  />
   </a>
-  <a href="https://linkedin.com/CodeWithRushil" target="_blank">
+  <a href="https://linkedin.com/in/CodeWithRushil" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="30" alt="linkedin logo"  />
   </a>  
 </div>
