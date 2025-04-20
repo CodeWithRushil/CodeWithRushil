@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/github/followers/CodeWithRushil?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
----
+
 ## 🎯 **About Me**
 🏆 **Full Stack Developer** | 💻 **Coding Enthusiast** | 💡 **Tech Explorer** | 🚀 **Problem Solver**  
 
@@ -140,4 +140,4 @@ Check out my GfG profile [here](https://www.geeksforgeeks.org/user/rushil_sharma
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeWithRushil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </p>
 
----
+
