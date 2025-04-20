@@ -95,6 +95,11 @@
 ---
 
 ## 🌟 **Skills & GitHub Trophies**
+  
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="50"/>
+</p> 
+
 ### Top Skills:
 - **Data Structures and Algorithms**
 - **Full Stack Development (MERN Stack)**
@@ -103,8 +108,7 @@
 - **OOPs**
 - **Python (Programming Language)**
 - **Problem Solving**
-  
-  
+
 
 ## GitHub Trophies: 
 <img src="https://github-profile-trophy.vercel.app?username=CodeWithRushil&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -136,6 +140,11 @@ Check out my GfG profile [here](https://www.geeksforgeeks.org/user/rushil_sharma
 ---
 
 ## 📌 **Top Languages**
+
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUxNDU4NjQsIm5iZiI6MTc0NTE0NTU2NCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIwVDEwMzkyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMzYTg5OGUwZDUyY2YwOTJkMGQ4MDc5NDllYzg3NTZlZjY3MzBjNGQ5MjY5MzJmMGNiOWJhYTkyYzM0ZDJiNTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.hZ0NjtoHqhVnhhwZnDAhMImENebqSdo0KnDs9mlugJ4" height="50"/>
+</p> 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeWithRushil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </p>
