@@ -35,14 +35,11 @@
 ---
 ## 🌐 **Connect with Me**
 <div align="center">
-  <a href="https://instagram.com/rushil.in" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="30" alt="instagram logo"  />
-  </a>
   <a href="https://twitter.com/CodeWithRushil" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=X&color=1DA1F2&logoColor=white&labelColor=blue&style=plastic" height="30" alt="twitter logo"  />
   </a>
-  <a href="https://hackerrank.com/CodeWithRushil" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=plastic" height="30" alt="hackerrank logo"  />
+  <a href="https://instagram.com/rushil.in" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="30" alt="instagram logo"  />
   </a>
   <a href="https://discordapp.com/users/975018741316329472" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="30" alt="discord logo"  />
