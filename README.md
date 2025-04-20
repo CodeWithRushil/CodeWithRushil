@@ -105,7 +105,7 @@
 
 ---
 ## 💼 **My GeeksForGeeks Profile**
-Check out my GfG profile [here](https://www.geeksforgeeks.org/rushil_sharma).
+Check out my GfG profile [here](https://www.geeksforgeeks.org/user/rushil_sharma/).
 
 ---
 
