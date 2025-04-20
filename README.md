@@ -1,4 +1,3 @@
-###
 <p align="center">
   <img src="https://raw.githubusercontent.com/CodeWithRushil/CodeWithRushil/output/snake.svg" alt="Snake animation" />
 </p>
@@ -22,7 +21,9 @@
   <img src="https://img.shields.io/github/followers/CodeWithRushil?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
----
+<img width="1"/>
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1200"/>
+
 ## <img src="https://private-user-images.githubusercontent.com/74038190/238200839-9c351cb9-c9a2-4b20-8420-e96b8331a53b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUxNDk4MjcsIm5iZiI6MTc0NTE0OTUyNywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4MzktOWMzNTFjYjktYzlhMi00YjIwLTg0MjAtZTk2YjgzMzFhNTNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIwVDExNDUyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdjYzhkOTlkNzZhMTlkYzJjMGUyMmE5NzdhMjdkMDEzNjYzNWQyYzcxYWE4ZWEzMmIzN2NkY2Y1NWIyOTAzNjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.5hbGUVgK0oIgv8Q9m3F3r1qoOpLXBCJ4SySgFcwrETk" height="30"/> &nbsp;**About Me**
 🏆 **Full Stack Developer** | 💻 **Coding Enthusiast** | 💡 **Tech Explorer** | 🚀 **Problem Solver**  
 
