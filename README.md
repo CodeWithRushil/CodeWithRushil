@@ -105,10 +105,6 @@
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" height="30"/> &nbsp;GitHub Trophies:
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" height="50"/>
-</p> 
-
 <img src="https://github-profile-trophy.vercel.app?username=CodeWithRushil&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
 ---
