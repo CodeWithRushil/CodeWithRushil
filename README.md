@@ -1,6 +1,6 @@
 ###
 
-<img src="https://raw.githubusercontent.com/CodeWithRushil/CodeWithRushil/output/snake.svg" alt="Snake animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithRushil&radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=false" height="300" alt="activity-graph graph"  />
 
 ###
 
