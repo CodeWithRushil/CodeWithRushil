@@ -16,7 +16,7 @@
 </p>
 
 ## 🎯 **About Me**
-🏆 **Full Stack Developer** | 💻 **Code Enthusiast** | 💡 **Tech Explorer** | 🚀 **Problem Solver**  
+🏆 **Full Stack Developer** | 💻 **Coding Enthusiast** | 💡 **Tech Explorer** | 🚀 **Problem Solver**  
 
 - 🌱 Currently diving deep into **C++, DSA, & Web Development**  
 - 🚀 Passionate about **Full Stack Development & Competitive Programming**  
