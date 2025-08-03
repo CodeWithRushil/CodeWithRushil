@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/CodeWithRushil/CodeWithRushil/output/github-snake-dark.svg" alt="Snake animation" />
+<!--   https://github.com/tobiasmeyhoefer -->
 </p>
 
 ###
