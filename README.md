@@ -106,7 +106,7 @@
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" height="30"/> &nbsp;GitHub Trophies:
-<img src="https://github-profile-trophy.vercel.app?username=CodeWithRushil&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<img src="https://user-images.githubusercontent.com/6661165/131685203-92a31101-2d93-4d18-b24a-d81a8bb012c5.png" height="150" alt="trophy graph"  />
 
 ---
 ## <img src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUxNDk4MjcsIm5iZiI6MTc0NTE0OTUyNywicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIwVDExNDUyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThhMzFiMTdhNzQwZGQ4ZmY2OWMxYTMwNmE4NjM2NGM1ZWY0MWQ1NzAwOGY4YzI0YjI3NDRkYTNlODI2ODA1ZTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xUzUBKXAQfmzLutt8925czKDJH02qQeY9FNk4tSbXUE" height="30"/> &nbsp;**My GeeksForGeeks Profile**
