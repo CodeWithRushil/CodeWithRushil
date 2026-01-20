@@ -127,13 +127,6 @@ Check out my GfG profile [here](https://www.geeksforgeeks.org/user/rushil_sharma
 ---
 
 ## <img src="https://private-user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUxNTAxMzcsIm5iZiI6MTc0NTE0OTgzNywicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzQtMGJmMTM0ZTItYzBiYS00ODhiLWJiZDQtOTMwMGYyZjc3ODcxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIwVDExNTAzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJiZTUxNzA0NTAyMmE5NDc3YzlhZmRjOGZiMTQzNWIxZDY4Yjc4ZmI5MmE1OTk2NDM2MDVjYjZkZmIzYWJmNjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.i-P-uPg8J_LF5T2RmxgsCOzNmoT3NoQ3UknO9wBLoiI" height="30"/> &nbsp;**My GitHub Contributions**
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUxNDYzMjIsIm5iZiI6MTc0NTE0NjAyMiwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIwVDEwNDcwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ0NmIyYTY4OTIwOTZhOGZmYTU2OGUzMTM4YzE2ZjQzY2RkNGM3NjU3MjJiYWE2MTA3MTg4YzM1YTkwOTU3NzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.q1IXswaDddQz_DcnNnGKvAEnixy9Q3DKHH43D2P-GqQ" height="100"/>
-</p> 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CodeWithRushil&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithRushil&radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=false" height="300" alt="activity-graph graph"  />
