@@ -126,21 +126,12 @@ Check out my GfG profile [here](https://www.geeksforgeeks.org/user/rushil_sharma
 
 ---
 
-## <img src="https://private-user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif" height="30"/> &nbsp;**GitHub Activity**
-
 <p align="center">
-  <p align="center">
   <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=CodeWithRushil&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github"
-    alt="GitHub Stats"
-  />
-  <img
-    width="48%"
+    width="60%"
     src="https://streak-stats.demolab.com?user=CodeWithRushil&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
     alt="GitHub Streak"
   />
-</p>
 </p>
 
 ---
